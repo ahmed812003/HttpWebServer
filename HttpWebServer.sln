@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpWebServer.CL", "HttpWebServer.CL\HttpWebServer.CL.csproj", "{8B725101-C4D1-452A-9BA4-BA43D07493BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpWebServer.App", "HttpWebServer.App\HttpWebServer.App.csproj", "{107B1C16-DA31-4553-ABE3-92D724E3B09F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B725101-C4D1-452A-9BA4-BA43D07493BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B725101-C4D1-452A-9BA4-BA43D07493BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B725101-C4D1-452A-9BA4-BA43D07493BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B725101-C4D1-452A-9BA4-BA43D07493BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{107B1C16-DA31-4553-ABE3-92D724E3B09F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{107B1C16-DA31-4553-ABE3-92D724E3B09F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{107B1C16-DA31-4553-ABE3-92D724E3B09F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{107B1C16-DA31-4553-ABE3-92D724E3B09F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {534579CD-0F64-4C96-A114-34CBB2E5ECB8}
+	EndGlobalSection
+EndGlobal
